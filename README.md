@@ -1,12 +1,16 @@
+<div align="center">
+
 # Welcome to the Digital Lair of AfraidofTime
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xafraidoftime&color=red&style=for-the-badge&label=Chaos%20Witnesses)
+
+</div>
 
 ---
 
 <div align="center">
 
-**Hey, how's it going?** <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30">
+**Hey, how's it going?** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="25" height="25" />
 
 </div>
 
@@ -16,9 +20,9 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xafraidoftime&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=0xafraidoftime&theme=radical&hide_border=true&count_total_commits=true&hide_longest_streak=true&hide_current_streak=true)
+| Languages | Contributions |
+|:---------:|:-------------:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xafraidoftime&layout=compact&theme=radical&hide_border=true&card_width=400) | ![GitHub Streak](https://streak-stats.demolab.com/?user=0xafraidoftime&theme=radical&hide_border=true&count_total_commits=true&hide_longest_streak=true&hide_current_streak=true&card_width=300) |
 
 </div>
 
@@ -36,7 +40,7 @@ Although it is difficult to truly upset AfraidofTime, no criticism you offer wil
 
 ## The Professional Plot Twist
 
-When not orchestrating digital mayhem, AfraidofTime is an **AI Engineer** with roots in software automation, now focused on building intelligent systems that create real-world impact in finance, defence, and public sectors.
+When not orchestrating digital mayhem, AfraidofTime is an **AI Engineer** with roots in software automation, now focused on building intelligent systems that create real-world impact in finance, defence, and public sectors. 
 
 ### Core Technical Arsenal
 ```python
