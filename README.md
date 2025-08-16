@@ -53,7 +53,7 @@ class AfraidofTime:
 
 ## Musical Chaos Generator
 
-![Spotify](https://img.shields.io/badge/Hans%20Zimmer%20Addict-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+[![Spotify](https://img.shields.io/badge/Hans%20Zimmer%20Addict-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3GF7oPu8pjIddtQQhJcnM8)
 ![Viola](https://img.shields.io/badge/Viola%20Player-8B5A3C?style=for-the-badge)
 ![Keyboard](https://img.shields.io/badge/Second--Hand%20Keyboard-000000?style=for-the-badge&logo=piano&logoColor=white)
 
