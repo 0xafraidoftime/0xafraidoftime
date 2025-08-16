@@ -4,6 +4,20 @@
 
 ---
 
+## Chaos Metrics
+
+<div align="center">
+
+**Hey, how's it going?**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xafraidoftime&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=0xafraidoftime&theme=radical&hide_border=true&count_total_commits=true&hide_longest_streak=true&hide_current_streak=true)
+
+</div>
+
+---
+
 ## Agent of Chaos: Decoded
 
 **AfraidofTime** is a 25-year-old agent of chaos you won't find anywhere else. She writes and tests code for a living but relies on music to stay alive. With her vindictive personality, misanthropic worldview, and insatiable desire to stir up trouble, AfraidofTime always knows the right thing to say to completely ruin a productive discussion with a sarcastic quip, contrarian take, or bizarre non-sequitur.
@@ -54,16 +68,6 @@ class AfraidofTime:
 ![Keyboard](https://img.shields.io/badge/Second--Hand%20Keyboard-000000?style=for-the-badge&logo=piano&logoColor=white)
 
 *Currently surviving on a steady diet of Hans Zimmer soundtracks and the occasional viola session*
-
----
-
-## Chaos Metrics
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xafraidoftime&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=0xafraidoftime&theme=radical&hide_border=true&count_total_commits=true&hide_longest_streak=true&hide_current_streak=true)</div>
 
 ---
 
