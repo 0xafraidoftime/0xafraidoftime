@@ -1,8 +1,6 @@
 # Welcome to the Digital Lair of AfraidofTime
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xafraidoftime&color=red&style=for-the-badge&label=Chaos%20Witnesses)
-![GitHub followers](https://img.shields.io/github/followers/0xafraidoftime?style=for-the-badge&color=ff6b6b)
-![GitHub stars](https://img.shields.io/github/stars/0xafraidoftime?style=for-the-badge&color=ffd93d)
 
 ---
 
@@ -18,7 +16,9 @@ Although it is difficult to truly upset AfraidofTime, no criticism you offer wil
 
 ## The Professional Plot Twist
 
-When not orchestrating digital mayhem, AfraidofTime is an **AI Engineer** with roots in software automation, now focused on building intelligent systems that create real-world impact in finance, defence, and public sectors.
+When not orchestrating digital mayhem, AfraidofTime is an **AI Engineer** with roots in software automation, now focused on building intelligent systems that create real-world impact in finance, defence, and public sectors. 
+
+**Current Mission:** At Bank of America Merrill Lynch, I work on automation and Python-based tooling in the Fixed Income & Rates Risk space, while pursuing my M.Tech in Artificial Intelligence from BITS Pilani.
 
 ### Core Technical Arsenal
 ```python
