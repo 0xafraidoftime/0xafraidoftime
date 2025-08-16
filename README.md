@@ -61,13 +61,9 @@ class AfraidofTime:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xafraidoftime&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xafraidoftime&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=0xafraidoftime&theme=radical&hide_border=true)
-
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=0xafraidoftime&theme=radical&hide_border=true&count_total_commits=true&hide_longest_streak=true&hide_current_streak=true)</div>
 
 ---
 
