@@ -41,12 +41,13 @@ class AfraidofTime:
 
 ## Chess Domination Status
 
-![Chess.com](https://img.shields.io/badge/Chess.com-it_gets_better-green?style=for-the-badge&logo=chess.com)
+[![Chess.com](https://img.shields.io/badge/Chess.com-it__gets__better-green?style=for-the-badge&logo=chess.com)](https://www.chess.com/member/it_gets_better)
+[![Lichess](https://img.shields.io/badge/Lichess-it__gets__better-black?style=for-the-badge&logo=lichess)](https://lichess.org/@/it_gets_better)
 
 **Recent Conquests:**
 - **1st Place** - PDPU Energy Cup 2025 (Corporate Chess)
 - **3rd Place** - 2022 GBS All India Women's Chess Championship (first tournament ever!)
-- Current status: Playing until vision deteriorates
+- **Current status:** Playing until vision deteriorates
 
 ---
 
@@ -77,16 +78,16 @@ class AfraidofTime:
 ## Repository Showcase: Digital Artifacts of Destruction
 
 ### AI & Machine Learning Projects
-- **[DQN-implementation](https://github.com/AfraidofTime/DQN-implementation)** - Deep Q-Network implementation (because why not teach machines to be as chaotic as me)
-- **[FFNN-implementation](https://github.com/AfraidofTime/FFNN-implementation)** - Feed-Forward Neural Network from scratch
-- **[MNIST-Digit-Classification](https://github.com/AfraidofTime/MNIST-Digit-Classification)** - Classic digit recognition (obligatory ML rite of passage)
-- **[Unsloth-LoRA-Fine-tuning](https://github.com/AfraidofTime/Unsloth-LoRA-Fine-tuning)** - Efficient LLM fine-tuning experiments
+- **[DQN-implementation](https://github.com/0xafraidoftime/DQN-implementation)** - Deep Q-Network implementation (because why not teach machines to be as chaotic as me)
+- **[FFNN-implementation](https://github.com/0xafraidoftime/FFNN-implementation)** - Feed-Forward Neural Network from scratch
+- **[MNIST-Digit-Classification](https://github.com/0xafraidoftime/MNIST-Digit-Classification)** - Classic digit recognition (obligatory ML rite of passage)
+- **[Unsloth-LoRA-Fine-tuning](https://github.com/0xafraidoftime/Unsloth-LoRA-Fine-tuning)** - Efficient LLM fine-tuning experiments
 
 ### Chess & Strategy
-- **[Chess-Cheat-Detection](https://github.com/AfraidofTime/Chess-Cheat-Detection)** - Detecting chess cheaters (takes one to know one?)
+- **[Chess-Cheat-Detection](https://github.com/0xafraidoftime/Chess-Cheat-Detection)** - Detecting chess cheaters (takes one to know one?)
 
 ### Blockchain & Security
-- **[MCS-using-Blockchain](https://github.com/AfraidofTime/MCS-using-Blockchain)** - Blockchain implementation for secure systems
+- **[MCS-using-Blockchain](https://github.com/0xafraidoftime/MCS-using-Blockchain)** - Blockchain implementation for secure systems
 
 ---
 
@@ -135,7 +136,7 @@ Mission: Building AI systems while avoiding human interaction
 
 <div align="center">
 
-### Warning: Contents May Cause Existential Crisis ⚠️
+### Warning: Contents May Cause Existential Crisis
 
 *"I code, therefore I am... probably a simulation"*
 
