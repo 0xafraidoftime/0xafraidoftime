@@ -18,9 +18,7 @@ Although it is difficult to truly upset AfraidofTime, no criticism you offer wil
 
 ## The Professional Plot Twist
 
-When not orchestrating digital mayhem, I'm an **AI Engineer in the making** with roots in software automation, now focused on building intelligent systems that create real-world impact in finance, defence, and public sectors. 
-
-**Current Mission:** At Bank of America Merrill Lynch, I work on automation and Python-based tooling in the Fixed Income & Rates Risk space, while pursuing my M.Tech in Artificial Intelligence from BITS Pilani.
+When not orchestrating digital mayhem, AfraidofTime is an **AI Engineer** with roots in software automation, now focused on building intelligent systems that create real-world impact in finance, defence, and public sectors.
 
 ### Core Technical Arsenal
 ```python
