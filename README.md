@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hey, how's it going? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="25" height="25" />
-
 ![Profile Views](https://komarev.com/ghpvc/?username=0xafraidoftime&color=blueviolet&style=for-the-badge&label=NEURAL%20CONNECTIONS)
 
 </div>
