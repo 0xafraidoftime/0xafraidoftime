@@ -4,11 +4,17 @@
 
 ---
 
+<div align="center">
+
+**Hey, how's it going?** <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30">
+
+</div>
+
+---
+
 ## Chaos Metrics
 
 <div align="center">
-
-**Hey, how's it going?**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xafraidoftime&layout=compact&theme=radical&hide_border=true)
 
