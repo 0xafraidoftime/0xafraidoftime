@@ -41,7 +41,7 @@ class AfraidofTime:
 
 ## Chess Domination Status
 
-![Chess.com](https://img.shields.io/badge/Chess.com-AfraidofTime-green?style=for-the-badge&logo=chess.com)
+![Chess.com](https://img.shields.io/badge/Chess.com-it_gets_better-green?style=for-the-badge&logo=chess.com)
 
 **Recent Conquests:**
 - **1st Place** - PDPU Energy Cup 2025 (Corporate Chess)
