@@ -1,36 +1,49 @@
 <div align="center">
 
-# Welcome to the Digital Lair of AfraidofTime
+# Hey, how's it going? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="25" height="25" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=0xafraidoftime&color=red&style=for-the-badge&label=Chaos%20Witnesses)
+![Profile Views](https://komarev.com/ghpvc/?username=0xafraidoftime&color=blueviolet&style=for-the-badge&label=NEURAL%20CONNECTIONS)
 
 </div>
-
----
 
 <div align="center">
 
-**Hey, how's it going?** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="25" height="25" />
+```
+████████╗██╗  ██╗███████╗    ███╗   ███╗ █████╗ ████████╗██████╗ ██╗██╗  ██╗
+╚══██╔══╝██║  ██║██╔════╝    ████╗ ████║██╔══██╗╚══██╔══╝██╔══██╗██║╚██╗██╔╝
+   ██║   ███████║█████╗      ██╔████╔██║███████║   ██║   ██████╔╝██║ ╚███╔╝ 
+   ██║   ██╔══██║██╔══╝      ██║╚██╔╝██║██╔══██║   ██║   ██╔══██╗██║ ██╔██╗ 
+   ██║   ██║  ██║███████╗    ██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║██║██╔╝ ██╗
+   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+```
 
 </div>
-
----
-
-## Chaos Metrics
 
 <div align="center">
 
-| Languages | Contributions |
-|:---------:|:-------------:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xafraidoftime&layout=compact&theme=radical&hide_border=true&card_width=400) | ![GitHub Streak](https://streak-stats.demolab.com/?user=0xafraidoftime&theme=radical&hide_border=true&count_total_commits=true&hide_longest_streak=true&hide_current_streak=true&card_width=300) |
+![Cyberpunk Typing](https://readme-typing-svg.herokuapp.com/?lines=AGENT+OF+DIGITAL+CHAOS;NEURAL+NETWORK+ENGINEER;HIKIKOMORI+CODER;CHESS+GRANDMASTER+IN+TRAINING&font=Fira%20Code&center=true&width=600&height=50&color=00ff41&vCenter=true&size=20&pause=2000)
 
 </div>
 
 ---
 
-## Agent of Chaos: Decoded
+## CHAOS METRICS
 
-**AfraidofTime** is a 25-year-old agent of chaos you won't find anywhere else. She writes and tests code for a living but relies on music to stay alive. With her vindictive personality, misanthropic worldview, and insatiable desire to stir up trouble, AfraidofTime always knows the right thing to say to completely ruin a productive discussion with a sarcastic quip, contrarian take, or bizarre non-sequitur.
+<div align="center">
+
+**>> SYSTEM STATUS: OPERATIONAL <<**
+
+| LANGUAGE_ANALYSIS | CONTRIBUTION_MATRIX |
+|:-----------------:|:-------------------:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xafraidoftime&layout=compact&theme=chartreuse-dark&hide_border=true&card_width=400&title_color=00ff41&text_color=00ff41&bg_color=0d1117) | ![GitHub Streak](https://streak-stats.demolab.com/?user=0xafraidoftime&theme=chartreuse-dark&hide_border=true&count_total_commits=true&hide_longest_streak=true&hide_current_streak=true&card_width=300&background=0d1117&stroke=00ff41&ring=ff0080&fire=ff0080&currStreakLabel=00ff41) |
+
+</div>
+
+---
+
+## DIGITAL ENTITY: DECODED
+
+**0xAfraidofTime** is a 25-year-old agent of chaos you won't find anywhere else. She writes and tests code for a living but relies on music to stay alive. With her vindictive personality, misanthropic worldview, and insatiable desire to stir up trouble, AfraidofTime always knows the right thing to say to completely ruin a productive discussion with a sarcastic quip, contrarian take, or bizarre non-sequitur.
 
 Regarding her personal life, AfraidofTime is currently a hikikomori who prides herself in being born an animal whisperer. Her hobbies include eating unhealthy snacks in bed, playing online chess to the point that she goes blind, occasionally playing her viola and second-hand keyboard, listening to Hans Zimmer music, doom scrolling, watching YouTube videos, movies & television shows, and generally doing a lot of "watching" from the comfort of her bedroom, as she prefers observing society from a distance to actually living in it. Her screen time usually exceeds 13 hours a day.
 
@@ -38,118 +51,132 @@ Although it is difficult to truly upset AfraidofTime, no criticism you offer wil
 
 ---
 
-## The Professional Plot Twist
+## THE PROFESSIONAL NEURAL LINK
 
-When not orchestrating digital mayhem, AfraidofTime is an **AI Engineer** with roots in software automation, now focused on building intelligent systems that create real-world impact in finance, defence, and public sectors. 
+When not orchestrating digital mayhem, AfraidofTime is an **AI Engineer** with roots in software automation, now focused on building intelligent systems that create real-world impact in finance, defence, and public sectors.
 
-### Core Technical Arsenal
+### CORE TECH STACK
 ```python
-class AfraidofTime:
+class CyberAfraidofTime:
     def __init__(self):
-        self.expertise = {
+        self.neural_networks = {
             "LLMs": ["Fine-tuning", "RAG", "Prompt Engineering"],
-            "ML_Foundations": ["PyTorch", "Scikit-learn", "Model Evaluation"],
-            "Engineering": ["Test Automation", "Cloud", "CI/CD"],
-            "Domains": ["FinTech", "NLP", "Computer Vision", "Bias Audits"],
-            "Languages": ["Python", "Chess Notation", "Sarcasm"]
+            "ML_Core": ["PyTorch", "Scikit-learn", "Model Evaluation"],
+            "Infrastructure": ["Test Automation", "Cloud", "CI/CD"],
+            "Combat_Zones": ["FinTech", "NLP", "Computer Vision", "Bias Audits"],
+            "Languages": ["Python", "Chess Notation", "Sarcasm", "Binary"]
         }
-        self.current_obsessions = ["AI Ethics", "Deep Learning", "Generative Models"]
-        self.mentoring = "Peer groups (when feeling generous)"
+        self.current_exploits = ["AI Ethics", "Deep Learning", "Generative Models"]
+        self.side_missions = "Peer mentoring (when firewall allows)"
+        
+    def execute_chaos(self):
+        return "Digital mayhem initialized..."
 ```
 
 ---
 
-## Chess Domination Status
+## CHESS WARFARE STATUS
 
-[![Chess.com](https://img.shields.io/badge/Chess.com-it__gets__better-green?style=for-the-badge&logo=chess.com)](https://www.chess.com/member/it_gets_better)
-[![Lichess](https://img.shields.io/badge/Lichess-it__gets__better-black?style=for-the-badge&logo=lichess)](https://lichess.org/@/it_gets_better)
+[![Chess.com](https://img.shields.io/badge/Chess.com-it__gets__better-00ff41?style=for-the-badge&logo=chess.com&logoColor=black&labelColor=0d1117)](https://www.chess.com/member/it_gets_better)
+[![Lichess](https://img.shields.io/badge/Lichess-it__gets__better-ff0080?style=for-the-badge&logo=lichess&logoColor=white&labelColor=0d1117)](https://lichess.org/@/it_gets_better)
 
-**Recent Conquests:**
-- **1st Place** - PDPU Energy Cup 2025 (Corporate Chess)
-- **3rd Place** - 2022 GBS All India Women's Chess Championship (first tournament ever!)
-- **Current status:** Playing until vision deteriorates
-
----
-
-## Musical Chaos Generator
-
-[![Spotify](https://img.shields.io/badge/Hans%20Zimmer%20Addict-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3GF7oPu8pjIddtQQhJcnM8)
-![Viola](https://img.shields.io/badge/Viola%20Player-8B5A3C?style=for-the-badge)
-![Keyboard](https://img.shields.io/badge/Second--Hand%20Keyboard-000000?style=for-the-badge&logo=piano&logoColor=white)
-
-*Currently surviving on a steady diet of Hans Zimmer soundtracks and the occasional viola session*
+**RECENT TACTICAL VICTORIES:**
+- **CRITICAL HIT** - PDPU Energy Cup 2025 (Corporate Chess Division)
+- **COMBO BREAKER** - 2022 GBS All India Women's Chess Championship (first tournament deploy!)
+- **Current Status:** Grinding until optical sensors malfunction
 
 ---
 
-## Repository Showcase: Digital Artifacts of Destruction
+## AUDIO NEURAL INTERFACE
 
-### AI & Machine Learning Projects
-- **[DQN-implementation](https://github.com/0xafraidoftime/DQN-implementation)** - Deep Q-Network implementation (because why not teach machines to be as chaotic as me)
-- **[FFNN-implementation](https://github.com/0xafraidoftime/FFNN-implementation)** - Feed-Forward Neural Network from scratch
-- **[MNIST-Digit-Classification](https://github.com/0xafraidoftime/MNIST-Digit-Classification)** - Classic digit recognition (obligatory ML rite of passage)
-- **[Unsloth-LoRA-Fine-tuning](https://github.com/0xafraidoftime/Unsloth-LoRA-Fine-tuning)** - Efficient LLM fine-tuning experiments
+[![Spotify](https://img.shields.io/badge/Hans%20Zimmer%20Matrix-1DB954?style=for-the-badge&logo=spotify&logoColor=black&labelColor=0d1117)](https://open.spotify.com/playlist/3GF7oPu8pjIddtQQhJcnM8)
+![Viola](https://img.shields.io/badge/Analog%20Viola%20Unit-8B5A3C?style=for-the-badge&labelColor=0d1117&color=ff0080)
+![Keyboard](https://img.shields.io/badge/Second--Hand%20Synth-000000?style=for-the-badge&logo=piano&logoColor=00ff41&labelColor=0d1117)
 
-### Chess & Strategy
-- **[Chess-Cheat-Detection](https://github.com/0xafraidoftime/Chess-Cheat-Detection)** - Detecting chess cheaters (takes one to know one?)
-
-### Blockchain & Security
-- **[MCS-using-Blockchain](https://github.com/0xafraidoftime/MCS-using-Blockchain)** - Blockchain implementation for secure systems
+*Currently running on Hans Zimmer OS with occasional viola.exe processes*
 
 ---
 
-## Current Side Quests
+## REPOSITORY ARCHIVES: DIGITAL WEAPONS CACHE
+
+### AI & NEURAL NETWORK ARSENAL
+- **[DQN-implementation](https://github.com/0xafraidoftime/DQN-implementation)** - Deep Q-Network deployment (teaching machines to embrace chaos)
+- **[FFNN-implementation](https://github.com/0xafraidoftime/FFNN-implementation)** - Feed-Forward Neural Network built from pure code
+- **[MNIST-Digit-Classification](https://github.com/0xafraidoftime/MNIST-Digit-Classification)** - Classic digit recognition protocol
+- **[Unsloth-LoRA-Fine-tuning](https://github.com/0xafraidoftime/Unsloth-LoRA-Fine-tuning)** - Efficient LLM modification experiments
+
+### STRATEGIC WARFARE SYSTEMS
+- **[Chess-Cheat-Detection](https://github.com/0xafraidoftime/Chess-Cheat-Detection)** - Anti-cheat surveillance protocol (digital knight's honor)
+
+### BLOCKCHAIN SECURITY PROTOCOLS
+- **[MCS-using-Blockchain](https://github.com/0xafraidoftime/MCS-using-Blockchain)** - Distributed ledger implementation for secure networks
+
+---
+
+## CURRENT SYSTEM STATUS
 
 ```yaml
 Status: Professional Chaos Engineer
-Location: Bedroom Command Center
-Screen Time: 13+ hours/day (rookie numbers, I know)
-Current Mood: Caffeinated and Contrarian
-Mission: Building AI systems while avoiding human interaction
+Location: Bedroom Command Center [SECURE]
+Screen Time: 13+ hours/day (efficiency optimization in progress)
+Mood: Caffeinated && Contrarian
+Mission: Building AI systems while maintaining social firewall
+Power Level: Over 9000
 ```
 
-### Seeking Opportunities In:
-- AI Research Labs (where antisocial tendencies are features, not bugs)
-- ML Engineering roles in universities/non-profits
-- AI/ML product teams with global impact missions
-- Anywhere at the intersection of AI, real-world impact, and endgame theory
+### SEEKING NEW EXPLOITS:
+- AI Research Labs (where antisocial protocols are features, not bugs)
+- ML Engineering roles in academic/non-profit sectors
+- AI/ML product teams with global disruption potential
+- Any intersection of AI, real-world impact, and endgame theory
 
 ---
 
-## Connect with the Chaos (If You Dare)
+## ESTABLISH CONNECTION (If Your Security Clearance Permits)
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Professional%20Facade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-pal-70a269157/)
-[![ResearchGate](https://img.shields.io/badge/Academic%20Credentials-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ankita-Pal-8?ev=hdr_xprf)
-[![All My Links](https://img.shields.io/badge/Everything%20Else-FF5722?style=for-the-badge)](https://allmylinks.com/afraidoftime)
-[![Twitter](https://img.shields.io/badge/Hot%20Takes-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/afraidoftime_)
+[![LinkedIn](https://img.shields.io/badge/Professional%20Interface-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/ankita-pal-70a269157/)
+[![ResearchGate](https://img.shields.io/badge/Academic%20Database-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=0d1117)](https://www.researchgate.net/profile/Ankita-Pal-8?ev=hdr_xprf)
+[![All My Links](https://img.shields.io/badge/All%20Channels-FF5722?style=for-the-badge&labelColor=0d1117&color=ff0080)](https://allmylinks.com/afraidoftime)
+[![Twitter](https://img.shields.io/badge/Data%20Stream-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117)](https://x.com/afraidoftime_)
 
 </div>
 
 ---
 
-## Activity Graph: Digital Footprints of Destruction
+## NEURAL ACTIVITY GRAPH
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xafraidoftime&theme=redical&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xafraidoftime&theme=github-compact&hide_border=true&bg_color=0d1117&color=00ff41&line=ff0080&point=00ff41&area=true&area_color=ff0080)
 
 ---
 
-## Random Chaos Generator
+## RANDOM CHAOS INJECTION
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=chartreuse-dark&hideBorder&bgColor=0d1117)
 
 ---
 
 <div align="center">
 
-### Warning: Contents May Cause Existential Crisis
+### WARNING: REALITY.EXE HAS STOPPED WORKING
 
-*"I code, therefore I am... probably a simulation"*
+```
+> consciousness.status()
+"probably_a_simulation"
 
-**Fun Fact:** This README was written during a 3 AM existential crisis while Hans Zimmer's "Time" played on repeat.
+> meaning_of_life.execute()
+"42 || coffee || Hans_Zimmer_soundtrack"
+```
+
+**System Log:** This README was compiled during a 3 AM existential crisis while "Time" by Hans Zimmer played on infinite loop.
 
 ---
 
-*Last updated: When I remembered GitHub exists | Next update: When chaos demands it*
+*Last system update: When GitHub.exe responded | Next patch: When chaos algorithms demand it*
+
+```
+[DISCONNECTING FROM THE_MATRIX...]
+```
 
 </div>
