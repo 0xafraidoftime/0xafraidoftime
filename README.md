@@ -21,7 +21,7 @@
 
 <div align="center">
 
-![Cyberpunk Typing](https://readme-typing-svg.herokuapp.com/?lines=AGENT+OF+DIGITAL+CHAOS;NEURAL+NETWORK+ENGINEER;HIKIKOMORI+CODER;CHESS+NOOB&font=Fira%20Code&center=true&width=600&height=50&color=00ff41&vCenter=true&size=20&pause=2000)
+![Cyberpunk Typing](https://readme-typing-svg.herokuapp.com/?lines=AGENT+OF+DIGITAL+CHAOS;NEURAL+NETWORK+ENGINEER;HIKIKOMORI+CODER;CHESS+AMATEUR&font=Fira%20Code&center=true&width=600&height=50&color=00ff41&vCenter=true&size=20&pause=2000)
 
 </div>
 
