@@ -4,6 +4,20 @@
 
 </div>
 
+---
+
+## LORE UPDATE: CURRENT TIMELINE STATUS
+
+<div align="center">
+
+> *"This year has been the perfect blend of me losing my mind and having the time of my life"*
+> 
+> **— System Log Entry 2025.08.19**
+
+</div>
+
+---
+
 <div align="center">
 
 ```
@@ -49,30 +63,6 @@ Although it is difficult to truly upset AfraidofTime, no criticism you offer wil
 
 ---
 
-## THE PROFESSIONAL NEURAL LINK
-
-When not orchestrating digital mayhem, AfraidofTime is an **AI Engineer** with roots in software automation, now focused on building intelligent systems that create real-world impact in finance, defence, and public sectors.
-
-### CORE TECH STACK
-```python
-class CyberAfraidofTime:
-    def __init__(self):
-        self.neural_networks = {
-            "LLMs": ["Fine-tuning", "RAG", "Prompt Engineering"],
-            "ML_Core": ["PyTorch", "Scikit-learn", "Model Evaluation"],
-            "Infrastructure": ["Test Automation", "Cloud", "CI/CD"],
-            "Combat_Zones": ["FinTech", "NLP", "Computer Vision", "Bias Audits"],
-            "Languages": ["Python", "Chess Notation", "Sarcasm", "Binary"]
-        }
-        self.current_exploits = ["AI Ethics", "Deep Learning", "Generative Models"]
-        self.side_missions = "Peer mentoring (when firewall allows)"
-        
-    def execute_chaos(self):
-        return "Digital mayhem initialized..."
-```
-
----
-
 ## CHESS WARFARE STATUS
 
 [![Chess.com](https://img.shields.io/badge/Chess.com-it__gets__better-00ff41?style=for-the-badge&logo=chess.com&logoColor=black&labelColor=0d1117)](https://www.chess.com/member/it_gets_better)
@@ -82,51 +72,6 @@ class CyberAfraidofTime:
 - **CRITICAL HIT** - PDPU Energy Cup 2025 (Corporate Chess Division)
 - **COMBO BREAKER** - 2022 GBS All India Women's Chess Championship (first tournament deploy!)
 - **Current Status:** Grinding until optical sensors malfunction
-
----
-
-## AUDIO NEURAL INTERFACE
-
-[![Spotify](https://img.shields.io/badge/Hans%20Zimmer%20Matrix-1DB954?style=for-the-badge&logo=spotify&logoColor=black&labelColor=0d1117)](https://open.spotify.com/playlist/3GF7oPu8pjIddtQQhJcnM8)
-![Viola](https://img.shields.io/badge/Analog%20Viola%20Unit-8B5A3C?style=for-the-badge&labelColor=0d1117&color=ff0080)
-![Keyboard](https://img.shields.io/badge/Second--Hand%20Synth-000000?style=for-the-badge&logo=piano&logoColor=00ff41&labelColor=0d1117)
-
-*Currently running on Hans Zimmer OS with occasional viola.exe processes*
-
----
-
-## REPOSITORY ARCHIVES: DIGITAL WEAPONS CACHE
-
-### AI & NEURAL NETWORK ARSENAL
-- **[DQN-implementation](https://github.com/0xafraidoftime/DQN-implementation)** - Deep Q-Network deployment (teaching machines to embrace chaos)
-- **[FFNN-implementation](https://github.com/0xafraidoftime/FFNN-implementation)** - Feed-Forward Neural Network built from pure code
-- **[MNIST-Digit-Classification](https://github.com/0xafraidoftime/MNIST-Digit-Classification)** - Classic digit recognition protocol
-- **[Unsloth-LoRA-Fine-tuning](https://github.com/0xafraidoftime/Unsloth-LoRA-Fine-tuning)** - Efficient LLM modification experiments
-
-### STRATEGIC WARFARE SYSTEMS
-- **[Chess-Cheat-Detection](https://github.com/0xafraidoftime/Chess-Cheat-Detection)** - Anti-cheat surveillance protocol (digital knight's honor)
-
-### BLOCKCHAIN SECURITY PROTOCOLS
-- **[MCS-using-Blockchain](https://github.com/0xafraidoftime/MCS-using-Blockchain)** - Distributed ledger implementation for secure networks
-
----
-
-## CURRENT SYSTEM STATUS
-
-```yaml
-Status: Professional Chaos Engineer
-Location: Bedroom Command Center [SECURE]
-Screen Time: 13+ hours/day (efficiency optimization in progress)
-Mood: Caffeinated && Contrarian
-Mission: Building AI systems while maintaining social firewall
-Power Level: Over 9000
-```
-
-### SEEKING NEW EXPLOITS:
-- AI Research Labs (where antisocial protocols are features, not bugs)
-- ML Engineering roles in academic/non-profit sectors
-- AI/ML product teams with global disruption potential
-- Any intersection of AI, real-world impact, and endgame theory
 
 ---
 
@@ -157,24 +102,10 @@ Power Level: Over 9000
 
 <div align="center">
 
-### WARNING: REALITY.EXE HAS STOPPED WORKING
-
-```
-> consciousness.status()
-"probably_a_simulation"
-
-> meaning_of_life.execute()
-"42 || coffee || Hans_Zimmer_soundtrack"
-```
-
-**System Log:** This README was compiled during a 3 AM existential crisis while "Time" by Hans Zimmer played on infinite loop.
-
----
+<div align="center">
 
 *Last system update: When GitHub.exe responded | Next patch: When chaos algorithms demand it*
 
-```
-[DISCONNECTING FROM THE_MATRIX...]
-```
+</div>
 
 </div>
