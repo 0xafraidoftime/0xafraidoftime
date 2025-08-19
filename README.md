@@ -6,18 +6,6 @@
 
 ---
 
-## LORE UPDATE: CURRENT TIMELINE STATUS
-
-<div align="center">
-
-> *"This year has been the perfect blend of me losing my mind and having the time of my life"*
-> 
-> **— System Log Entry 2025.08.19**
-
-</div>
-
----
-
 <div align="center">
 
 ```
@@ -34,6 +22,18 @@
 <div align="center">
 
 ![Cyberpunk Typing](https://readme-typing-svg.herokuapp.com/?lines=AGENT+OF+DIGITAL+CHAOS;NEURAL+NETWORK+ENGINEER;HIKIKOMORI+CODER;CHESS+GRANDMASTER+IN+TRAINING&font=Fira%20Code&center=true&width=600&height=50&color=00ff41&vCenter=true&size=20&pause=2000)
+
+</div>
+
+---
+
+## LORE UPDATE: CURRENT TIMELINE STATUS
+
+<div align="center">
+
+> *"This year has been the perfect blend of me losing my mind and having the time of my life"*
+> 
+> **— System Log Entry 2025.08.19**
 
 </div>
 
