@@ -45,9 +45,9 @@
 
 **>> SYSTEM STATUS: OPERATIONAL <<**
 
-| LANGUAGE_ANALYSIS | CONTRIBUTION_MATRIX |
-|:-----------------:|:-------------------:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xafraidoftime&layout=compact&theme=chartreuse-dark&hide_border=true&card_width=400&title_color=00ff41&text_color=00ff41&bg_color=0d1117) | ![GitHub Streak](https://streak-stats.demolab.com/?user=0xafraidoftime&theme=chartreuse-dark&hide_border=true&count_total_commits=true&hide_longest_streak=true&hide_current_streak=true&card_width=300&background=0d1117&stroke=00ff41&ring=ff0080&fire=ff0080&currStreakLabel=00ff41) |
+| LANGUAGE_ANALYSIS |
+|:-----------------:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xafraidoftime&layout=compact&theme=chartreuse-dark&hide_border=true&card_width=400&title_color=00ff41&text_color=00ff41&bg_color=0d1117) |
 
 </div>
 
