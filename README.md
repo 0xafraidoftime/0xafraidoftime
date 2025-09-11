@@ -17,13 +17,6 @@
    ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
 ```
 
-</div>
-
-<div align="center">
-
-![Cyberpunk Typing](https://readme-typing-svg.herokuapp.com/?lines=AGENT+OF+DIGITAL+CHAOS;NEURAL+NETWORK+ENGINEER;MOTHER+OF+DOGS;CHESS+AMATEUR;HANS+ZIMMER+ADDICT&font=Fira%20Code&center=true&width=600&height=50&color=00ff41&vCenter=true&size=20&pause=2000)
-
-</div>
 
 ---
 
