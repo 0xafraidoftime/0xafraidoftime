@@ -6,5 +6,7 @@
 
 10/10/2025 : life sucks a lil less today but i'm still at it
 
+14/10/2025 : LET'S FUCKINNN GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+
 </div>
 
