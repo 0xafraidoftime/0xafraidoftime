@@ -4,11 +4,11 @@
 
 F-117 Nighthawk Arc Phase - 1 Initiated
 
-Log update - Jan 9th 2026
+Log update for January 9th 2026
 
-i'm actually fried
+i am actually really fried
 
-i need to keep on going tho
+need to keep going tho
 
 </div>
 
