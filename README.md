@@ -8,7 +8,7 @@ The ultrathink log update for January 30th 2026
 
 If you wanna collab for hackathons, hit me up on X, linkedin, or discord
 
-https://allmylinks.com/afraidoftime
+something to listen to - https://www.youtube.com/watch?v=PjzZ_0KSYVg&list=PLZ_9WMQMcqG6blCH08B-ikNSQw-e2t2bg&index=1
 
 </div>
 
