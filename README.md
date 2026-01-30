@@ -6,7 +6,7 @@ F-117 Nighthawk Arc Phase - 1 Initiated
 
 The ultrathink log update for January 30th 2026
 
-If you wanna collab for hackathons, hit me up on X, linkedin, or discord :)
+If you wanna collab for hackathons, hit me up on X, linkedin, or discord
 
 https://allmylinks.com/afraidoftime
 
