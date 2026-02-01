@@ -6,7 +6,7 @@ F-117 Nighthawk Arc Phase - 1 Initiated
 
 The ultrathink log update for Februaury 1st 2026
 
-https://www.auralized.com/analysis/afraidoftime_
+a cool site to check out - https://www.auralized.com/
 
 We're gonna cook nice and hard, finish what we started
 
