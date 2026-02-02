@@ -16,5 +16,7 @@ now in the words of the great kache master,
 
 ![hoo hoo](./images/hoo.png)
 
+my aura analysis btw https://www.auralized.com/analysis/afraidoftime_
+
 </div>
 
