@@ -2,9 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xafraidoftime&color=red&style=for-the-badge&label=PROFILE%20VIEWS)
 
-The ultrathink log update for Februaury 2nd 2026
+The ultrathink log update for February 2nd 2026
 
-WE GONNA WIN LESSSGOOOOOOOOOOOOOOOOOOOO
+I'm actually fried, but gotta keep going
 
 A lil about me:
 
