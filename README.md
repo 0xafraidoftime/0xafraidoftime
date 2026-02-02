@@ -12,5 +12,9 @@ Hello stranger. I hope you're doing well. I am a full-stack software and ml engi
 
 P.S. my profile is ALWAYS under construction lmao. i'm in the perpetual pursuit of figuring myself out and pivoting endlessly. so don't be suprised if you visit again and see something completely different here
 
+now in the words of the great kache master,
+
+![hoo hoo](./images/hoo.png)
+
 </div>
 
