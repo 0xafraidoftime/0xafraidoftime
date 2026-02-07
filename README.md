@@ -4,7 +4,7 @@
 
 Log update for February 8th 2026
 
-Till death all defeats are psychological. We keep going.
+Until Death, All Defeat is Psychological. We KEEP GOING.
 
 </div>
 
