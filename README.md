@@ -6,7 +6,7 @@ Ultrathink Log update for February 27th 2026, 2116 Hours
 
 I'll take a potato chip... and EAT ITTTTTTTTTTTTTTTTTTTTTTTTTT!
 
-![That’s Right… This World… Is Cruel. It Hit Me That Living Was Like A Miracle](images/pidserkoler.webp)
+![That’s Right… This World… Is Cruel. It Hit Me That Living Was Like A Miracle](images/chip.png)
 
 </div>
 
