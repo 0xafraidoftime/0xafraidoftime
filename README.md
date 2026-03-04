@@ -6,7 +6,7 @@ Ultrathink Log update for March 4th 2026, 2033 Hours
 
 I'll take a potato chip... and EAT ITTTTTTTTTTTTTTTTTTTTTTTTTT!
 
-I am a Machine Learning Engineer. I’m currently working on building a Classification System using Reinforced Learning. I mentor and guide aspiring engineers across the globe so feel free to reach out! I’m learning Large Language Model Inference Optimization, AI safety and governance techniques. I’m looking to collaborate on any ML research project (especially LLMs). Ask me about machine learning, deep learning, recommender systems and LLMs.
+I am a Machine Learning Engineer. I’m currently working on building a Classification System using Reinforced Learning. I mentor and guide aspiring engineers across the globe so feel free to reach out! I’m learning Large Language Model Inference Optimization, AI safety and governance techniques. I’m looking to collaborate on any ML research project (especially LLMs). Ask me about machine learning, deep learning, recommender systems and LLMs. Want to reach out? Head over to twitter and ask for my email.
 
 ![That’s Right… This World… Is Cruel. It Hit Me That Living Was Like A Miracle](images/chip.png)
 
