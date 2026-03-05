@@ -4,7 +4,7 @@
 
 Ultrathink Log update for March 6th 2026, 0459 Hours
 
-(っ◔◡◔)っ WOW NEW WEBSITE WAWWWWWWWWWWWW !! 
+(っ◔◡◔)っWOW NEW WEBSITE WAWW!! 
 https://0xafraidoftime.github.io/
 
 ![wowwww](images/wowcat.gif)
