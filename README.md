@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xafraidoftime&color=red&style=for-the-badge&label=PROFILE%20VIEWS)
 
-Ultrathink Log update for March 6th 2026, 2155 Hours
+Ultrathink Log update for March 6th 2026, 2318 Hours
 
 if you're retarded please fill out this form https://t.co/gJ8BEz1AG1
 
@@ -17,7 +17,7 @@ I am a Machine Learning Engineer. I’m currently working on building a Classifi
 
 ![That’s Right… This World… Is Cruel. It Hit Me That Living Was Like A Miracle](images/chip.png)
 
-WATCH me, L! I'll solve equations with my RIGHT hand, and write names with my LEFT! I'll take a POTATO chip...AND! EAT IT!" - Yagami 
+"WATCH me, L! I'll solve equations with my RIGHT hand, and write names with my LEFT! I'll take a POTATO chip...AND! EAT IT!" - Yagami 
 
 You gotta practice. Practice practice practice. The only way to get better at your trade is to practice. Like your life depends on it. (it does)
 
