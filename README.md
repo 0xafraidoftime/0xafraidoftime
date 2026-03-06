@@ -10,7 +10,7 @@ if you're retarded please fill out this form https://t.co/gJ8BEz1AG1
 WOW NEW WEBSITE WAW!! VERSION 2.0
 https://0xafraidoftime.github.io/
 
-![wowwww](images/wowcat.gif)
+![wowwww](images/shockedcat.gif)
 
 
 I am a Machine Learning Engineer. I’m currently working on building a Classification System using Reinforced Learning. I mentor and guide aspiring engineers across the globe so feel free to reach out! I’m learning Large Language Model Inference Optimization, AI safety and governance techniques. I’m looking to collaborate on any ML research project (especially LLMs). Ask me about machine learning, deep learning, recommender systems and LLMs. Want to reach out? Head over to twitter and ask for my email.
