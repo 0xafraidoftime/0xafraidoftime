@@ -2,11 +2,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xafraidoftime&color=red&style=for-the-badge&label=PROFILE%20VIEWS)
 
-Ultrathink Log update for March 15th 2026, 17:03 Hours
+Ultrathink Log update for March 16th 2026, 2207 Hours
 
-Groggy sunday afternoon ughhhhhhhhhhhhhhhhhhh
+Unexpectedly good monday lol
 
-![wowwww](images/sleepycat.gif)
+![wowwww](images/kiki.png)
 
 
 I am a Machine Learning Engineer. I’m currently working on building a Classification System using Reinforced Learning. I mentor and guide aspiring engineers across the globe so feel free to reach out! I’m learning Large Language Model Inference Optimization, AI safety and governance techniques. I’m looking to collaborate on any ML research project (especially LLMs). Ask me about machine learning, deep learning, recommender systems and LLMs. Want to reach out? Head over to twitter and ask for my email.
