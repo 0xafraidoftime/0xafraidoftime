@@ -2,9 +2,19 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xafraidoftime&color=red&style=for-the-badge&label=PROFILE%20VIEWS)
 
-Update for April 8 2026
+Update for April 9 2026 0134 hours
 
-Roles tracker
+![My Image](images/death-note.gif)
+
+I am a Machine Learning Engineer and a retired chess player. I'm currently working on building a Classification System using Reinforced Learning. I mentor and guide aspiring engineers across the globe so feel free to reach out!
+
+I'm learning Large Language Model Inference Optimization, AI safety and governance techniques.
+
+I'm looking to collaborate on any ML research project (especially LLMs).
+
+Ask me about machine learning, deep learning, recommender systems and LLMs.
+
+Want to reach out? Head over to twitter and ask for my email.
 
 </div>
 
