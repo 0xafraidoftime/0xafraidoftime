@@ -2,13 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xafraidoftime&color=red&style=for-the-badge&label=PROFILE%20VIEWS)
 
-Update for April 10 2026 1730 hours
+Update for April 11th 2026 0021 hours
 
-me pretending to care in my 5:30 pm meeting while my soul already ran shutdown -h now
-
-happy friday pls free me from corporate purgatory 
-
-![My Image](images/doggie.png)
+![My Image](images/linux.png)
 
 I am a Machine Learning Engineer and a retired chess player. I'm currently working on building a Classification System using Reinforced Learning. I mentor and guide aspiring engineers across the globe so feel free to reach out!
 
