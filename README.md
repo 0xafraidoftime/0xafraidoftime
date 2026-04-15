@@ -4,7 +4,7 @@
 
 Update for April 16th 2026 0333 hours
 
-Hello and keep winning.
+Hello. If you can read this, I want you to keep winning.
 
 </div>
 
