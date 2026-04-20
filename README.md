@@ -10,7 +10,5 @@ I am a Machine Learning Engineer and a formal chess athlete. I also have a littl
 
 If you happen to have a background or an interest on any or all of the above mentioned topics or are looking to solve a problem in the mentioned niches or looking to collaborate, feel free to reach out and we'll have a chat.
 
-Socials on the left panel.
-
 </div>
 
