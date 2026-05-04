@@ -10,7 +10,7 @@ I am a Machine Learning Engineer.
 
 I’m currently working on building a Classification System using SL.
 
-I’m currently learning Large Language Model Inference Optimization, AI ethics and safety, and Advanced Recommendation System techniques.
+I’m currently learning Large Language Model Inference Optimization, AI ethics, and Advanced Recommendation System techniques.
 
 I’m looking to collaborate on any ML research project (especially LLMs)
 
