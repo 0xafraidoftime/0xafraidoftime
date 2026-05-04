@@ -18,7 +18,7 @@ I’m looking to collaborate on any ML research project (especially LLMs)
 
 Ask me about machine learning, deep learning, classification systems and LLMs
 
-How to reach me: email me at ankitapal2499 at gmail.com
+How to reach me: email me at ankitapal2499@gmail.com
 
 </div>
 
