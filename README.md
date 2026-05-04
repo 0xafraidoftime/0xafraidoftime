@@ -10,15 +10,13 @@ I am a Machine Learning Engineer.
 
 I’m currently working on building a Classification System using SL.
 
-I mentor and guide aspiring engineers so please feel free to reach out!
-
 I’m currently learning Large Language Model Inference Optimization, AI ethics and safety, and Advanced Recommendation System techniques.
 
 I’m looking to collaborate on any ML research project (especially LLMs)
 
 Ask me about machine learning, deep learning, classification systems and LLMs
 
-How to reach me: email me at ankitapal2499@gmail.com
+How to reach me: head over to twitter (X) and ask for my email
 
 </div>
 
