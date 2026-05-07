@@ -4,7 +4,7 @@
 
 Ultrathink update for May 8th 0308 hours
 
-(This part of my profile is a constant work in progress so ummm bear with me)
+(This part of my profile is a constant work in progress so ummm bare with me)
 
 </div>
 
