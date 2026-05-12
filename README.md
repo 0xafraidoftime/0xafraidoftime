@@ -4,7 +4,7 @@
 
 Ultrathink update for May 8th 0308 hours
 
-(This part of my profile is a constant work in progress so ummm bare with me)
+Hello, I'm Ankita, a machine learning engineer obsesssed with solving problems and making people's lives a whole lot better.
 
 </div>
 
