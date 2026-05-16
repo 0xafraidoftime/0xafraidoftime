@@ -4,7 +4,7 @@
 
 Ultrathink update for May 16th 1123 hours
 
-Hello, I'm Ankita, a machine learning engineer obsesssed with solving problems and making people's lives a whole lot better.
+Hello, I'm Ankita, a machine learning engineer obsesssed with chess & solving problems
 
 Currently working on building on top of the chesswrap fork for building human like chess bots
 
