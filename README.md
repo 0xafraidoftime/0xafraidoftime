@@ -10,5 +10,7 @@ If you're working on anything similar, please feel free to say hi: ankitapal2499
 
 Currently working on building on top of the chesswrap fork for building human like chess bots [here](https://github.com/0xafraidoftime/chesswrap)
 
+![hey](images/tenor.gif)
+
 </div>
 
