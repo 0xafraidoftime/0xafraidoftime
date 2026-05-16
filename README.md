@@ -6,6 +6,8 @@ Ultrathink update for May 16th 1123 hours
 
 Hello, I'm Ankita, a machine learning engineer obsesssed with chess & solving problems
 
+If you're working on anything similar, please feel free to say hi: ankitapal2499@gmail.com
+
 Currently working on building on top of the chesswrap fork for building human like chess bots [here](https://github.com/0xafraidoftime/chesswrap)
 
 </div>
