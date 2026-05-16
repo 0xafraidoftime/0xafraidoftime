@@ -4,7 +4,7 @@
 
 Ultrathink update for May 16th 0505 hours
 
-Hello, I'm Ankita, a machine learning engineer obsesssed with chess & solving problems
+Hello, I'm Ankita, an ML Engineer who can't quit chess (trust me, i've tried)
 
 If you're working on anything similar, please feel free to say hi: ankitapal2499@gmail.com
 
