@@ -10,7 +10,7 @@ Hello, I'm Ankita, an ML Engineer who can't stop listening to music (trust me, i
 
 Currently working on something that processess sensory data (images of the brain) as an impact of music
 
-If you're working on anything similar, please feel free to say hi: ankitapal2499@gmail.com or go [here](https://discord.gg/vvfk4zzn) or [here](https://discord.gg/fsx46ZpE)
+If you're working on anything similar, can reach out to me [here](https://discord.gg/fsx46ZpE), I'd love to pick (and not eat) your brain :)
 
 ![hey](images/catpiano.gif)
 
