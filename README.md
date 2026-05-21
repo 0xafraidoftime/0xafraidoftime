@@ -2,9 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xafraidoftime&color=red&style=for-the-badge&label=PROFILE%20VIEWS)
 
-Ultrathink update for May 20th 0306 hours
+[This is a new GitHub Account]
 
-(I lost access to my old Github acc so made a new one)
+Ultrathink update for May 21st 2056 hours
 
 Hello, I'm Ankita, an ML Engineer who can't stop listening to music (trust me, i've tried)
 
