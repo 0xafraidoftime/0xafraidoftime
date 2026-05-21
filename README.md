@@ -6,7 +6,7 @@
 
 Ultrathink update for May 21st 2056 hours
 
-Hello, I'm Ankita, an ML Engineer who can't stop listening to music (trust me, i've tried)
+Hello, I'm Ankita, an ML Engineer who can't stop listening to music. trust me, i've tried.
 
 Currently working on something that processess sensory data (images of the brain) as an impact of music
 
