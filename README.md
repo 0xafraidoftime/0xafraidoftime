@@ -12,6 +12,8 @@ Currently working on something that processess sensory data (images of the brain
 
 If you're working on anything similar, can reach out to me [here](https://discord.gg/fsx46ZpE), I'd love to pick (and not eat) your brain :)
 
+P.S. And if you happen to be bored or tired or both, and you want something to listen to, say less and go [here](https://coderadio.freecodecamp.org/)
+
 ![hey](images/catpiano.gif)
 
 </div>
