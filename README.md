@@ -4,10 +4,6 @@
 
 Hello, I'm Ankita, an ML Engineer who can't stop listening to music. Old gitHub acc acc lost :( so made a new one
 
-
-
-Ultrathink Update for the 22nd of May 2026 hours
-
 Working on something that processess sensory data (images of the brain) as an impact of music
 
 ![hey](images/catpiano.gif)
