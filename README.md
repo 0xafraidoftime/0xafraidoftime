@@ -2,15 +2,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xafraidoftime&color=red&style=for-the-badge&label=PROFILE%20VIEWS)
 
-[old GitHub Acc acc lost so made a new one]
+Hello, I'm Ankita, an ML Engineer who can't stop listening to music. Old gitHub acc acc lost :( so made a new one
 
-Ultrathink update for the 22nd of May 2026 hours
 
-Hello, I'm Ankita, an ML Engineer who can't stop listening to music. trust me, i've tried.
 
-Currently working on something that processess sensory data (images of the brain) as an impact of music
+Ultrathink Update for the 22nd of May 2026 hours
 
-If you're working on anything similar, can reach out to me [here](https://discord.gg/fsx46ZpE), I'd love to pick (and not eat) your brain :)
+Working on something that processess sensory data (images of the brain) as an impact of music
 
 ![hey](images/catpiano.gif)
 
