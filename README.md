@@ -6,7 +6,7 @@ Hi I'm Ankita, an ML Engineer obsessed with music n chess. Old gitHub acc acc lo
 
 Working on something that processess sensory data (images of the brain) as an impact of music
 
-![hey](images/catpiano.gif)
+![hey](images/earphonecat.gif)
 
 </div>
 
