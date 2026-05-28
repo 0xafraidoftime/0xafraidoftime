@@ -6,7 +6,7 @@
 
 Hi I'm Ankita, an ML Engineer obsessed with music n chess. Old gitHub acc lost :( made new, active [here](https://discord.gg/DYmSAWvx)
 
-Working on something that processess sensory data (images of the brain) as an impact of music, [rambling about stuff](https://substack.com/@afraidoftime)
+Working on something that processess sensory data (images of the brain) as an impact of music, [rambling stuff](https://substack.com/@afraidoftime)
 
 </div>
 
