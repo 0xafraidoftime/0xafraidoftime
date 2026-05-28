@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xafraidoftime&color=red&style=for-the-badge&label=PROFILE%20VIEWS)
 
-Ultrathink update for 29th May 1231 HOURS
+Ultrathink update for 29th May 1233 hours
 
 Hi I'm Ankita, an ML Engineer obsessed with music n chess. Old gitHub acc lost :( made new
 
