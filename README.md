@@ -6,7 +6,7 @@
 
 Hello. I'm Ankita. I was brought up in Nashville (and hence the music obsession), currently living in India.
 
-I'm and ML Engineer obsessed with chess, psychology, and the human (and ai) consciousness. Old gitHub acc lost :( made new, active [here](https://discord.gg/u6Vjppw2)
+I'm an ML Engineer obsessed with chess, psychology, and the human consciousness. Old gitHub acc lost :( made new, active [here](https://discord.gg/u6Vjppw2)
 
 Working on something that processess sensory data (images of the brain) as an impact of music, [rambling stuff](https://substack.com/@afraidoftime), & working on some cool stuff.
 
