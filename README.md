@@ -10,5 +10,8 @@ I'm an ML Engineer obsessed with chess, psychology, and the human consciousness.
 
 Working on something that processess sensory data (images of the brain) as an impact of music, [rambling stuff](https://substack.com/@afraidoftime), & doing other cool stuff.
 
+reddit: Extension-Book-4556
+discord: afraidoftime_
+
 </div>
 
