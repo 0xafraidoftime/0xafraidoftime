@@ -10,6 +10,10 @@ I'm an ML Engineer obsessed with chess, psychology, and the human consciousness.
 
 Working on something that processess sensory data (images of the brain) as an impact of music, [rambling stuff](https://substack.com/@afraidoftime), & doing other cool stuff.
 
+P.S. fun fact about me: this is what happens to my brain when i'm around a lot of people for wayyyyy too long. in short, i'm an introvert :)
+
+![App Screenshot](ie.png)
+
 reddit: Extension-Book-4556
 
 discord: afraidoftime_
