@@ -6,6 +6,8 @@
 
 Hello. I'm Ankita. I grew up in Nashville (and hence the music obsession), currently living in India.
 
+Currently deep-diving into the United Nations ecosystem, focusing on the Human Rights Council and [AI governance](https://www.un.org/global-dialogue-ai-governance/en)
+
 I'm an ML Engineer obsessed with chess, psychology, and the human consciousness. Old gitHub acc lost :( made new, active here
 
 Working on something that processess sensory data (images of the brain) as an impact of music, [rambling stuff](https://substack.com/@afraidoftime), & doing other cool stuff.
@@ -15,8 +17,6 @@ P.S. fun fact about me: this is what happens to my brain when i'm around a lot o
 ![App Screenshot](ie.png)
 
 reddit: Extension-Book-4556
-
-[server dedicated to the gloogs --- nvm still workin on it](https://discord.gg/nzAJ8GzYK)
 
 </div>
 
