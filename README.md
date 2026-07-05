@@ -2,11 +2,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xafraidoftime&color=red&style=for-the-badge&label=PROFILE%20VIEWS)
 
-[Ultrathink update](https://leetcode.com/u/icy_popsicle/) for July 2nd 1750 hours
+[Ultrathink update](https://leetcode.com/u/icy_popsicle/) for July 5th 2355 hours
 
 Hello. I'm Ankita. I grew up in Nashville (and hence the music obsession), currently living in India.
 
-Currently deep-diving into the United Nations ecosystem, focusing on the Human Rights Council and [AI governance](https://www.un.org/global-dialogue-ai-governance/en)
+Currently deep-diving into the United Nations ecosystem, focusing on AI Ethics, Transparancy and [AI governance](https://www.un.org/global-dialogue-ai-governance/en)
 
 I'm an ML Engineer obsessed with chess, psychology, and the human consciousness. Old gitHub acc lost :( made new, active here
 
