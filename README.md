@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xafraidoftime&color=red&style=for-the-badge&label=PROFILE%20VIEWS)
 
-[Ultrathink update](https://leetcode.com/u/icy_popsicle/) for July 22nd 2026, 1932 hours
+[Ultrathink update](https://leetcode.com/u/icy_popsicle/) for July 23rd 2026, 0217 hours
 
 Hello. I'm Ankita. I grew up in Nashville (and hence the music obsession), currently living in India.
 
@@ -15,6 +15,8 @@ P.S. fun fact about me: this is what happens to my brain when i'm around a lot o
 ![App Screenshot](ie.png)
 
 reddit: Extension-Book-4556
+
+discord: afraidoftime_
 
 [My soldiers, push forward! My soldiers, scream out! My soldiers, RAGE!](https://youtu.be/01rlMy9Gv0A?si=qYnoN4o3PGv5gPiZ)
 
