@@ -16,8 +16,6 @@ P.S. fun fact about me: this is what happens to my brain when i'm around a lot o
 
 reddit: Extension-Book-4556
 
-discord: afraidoftime_
-
 [My soldiers, push forward! My soldiers, scream out! My soldiers, RAGE!](https://youtu.be/01rlMy9Gv0A?si=qYnoN4o3PGv5gPiZ)
 
 </div>
