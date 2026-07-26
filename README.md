@@ -10,7 +10,7 @@ People might also know me as afraidoftime. I absolutely love building systems th
 
 I work as a Software Specialist but I am also an ML engineer. These days I am working on (and learning) about classification systems.
 
-I'm also a retired competitive chess player. I hold an All India Rank 3 in the women's category at the National Chess Championship in 2022.
+And i'm a retired competitive chess player. I hold an All India Rank 3 in the women's category at the National Chess Championship in 2022.
 
 ![Alt Text](giphy.gif)
 
