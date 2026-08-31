@@ -12,7 +12,7 @@ I am a Machine Learning engineer. These days I am working on (and learning) abou
 
 I'm a retired competitive chess player. I hold an All India Rank 3 in the women's category at the National Chess Championship in 2022.
 
-Diving back into blockchain technology and public ledger systems right now. People seem to be noticing my Github and emailing me abt it :|
+Diving back into blockchain technology and public ledger systems right now. People seem to be noticing my Github and emailing me :|
 
 ![Alt Text](giphy.gif)
 
