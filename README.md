@@ -14,7 +14,7 @@ I'm a retired competitive chess player. I hold an All India Rank 3 in the women'
 
 Diving back into blockchain technology and public ledger systems right now. People seem to be noticing my Github and emailing me :|
 
-Also going on a mini game dev and artist side quest for aaaaaahhhhhhhh very personal reasons ehehehehehehhhheeee
+Also going on a mini game dev and artist side quest for aaaaaaaaaaaaaaaaaahhhhhhhhhhhhh very personal reasons
 
 ![Alt Text](giphy.gif)
 
