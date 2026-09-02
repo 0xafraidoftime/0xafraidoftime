@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xafraidoftime&color=red&style=for-the-badge&label=PROFILE%20VIEWS)
 
-[Ultrathink update](https://leetcode.com/u/icy_popsicle/) for September 1st 2026, 2131 hours
+[Ultrathink update](https://leetcode.com/u/icy_popsicle/) for September 3rd 2026, 0059 hours
 
 Hello. I'm Ankita. I grew up in Nashville (and hence the music obsession), currently living in India.
 
@@ -13,6 +13,8 @@ I am a Machine Learning engineer. These days I am working on (and learning) abou
 I'm a retired competitive chess player. I hold an All India Rank 3 in the women's category at the National Chess Championship in 2022.
 
 Diving back into blockchain technology and public ledger systems right now. People seem to be noticing my Github and emailing me :|
+
+Also going on a a mini game dev and artist side quest for aaaaaahhhhhhhh very personal reasons ehehehehehehhhheeee
 
 ![Alt Text](giphy.gif)
 
