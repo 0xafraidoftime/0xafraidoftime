@@ -4,21 +4,9 @@
 
 [Ultrathink update](https://leetcode.com/u/icy_popsicle/) for September 13th 2026, 2016 hours
 
-Hello. I'm Ankita. I grew up in Nashville (and hence the music obsession), currently living in India.
+Hello. If you ever felt lost in life, see this https://youtu.be/9fvETktnaRw?si=6hiMA4PyAulMa9Vo
 
-People might also know me as afraidoftime. I absolutely love building systems that solve problems. Problems of mine and of others.
-
-I am a Machine Learning engineer. These days I am working on (and learning) about classification systems. Sometimes, I mentor people.
-
-I'm a retired competitive chess player. I hold an All India Rank 3 in the women's category at the National Chess Championship in 2022.
-
-Diving back into blockchain technology and public ledger systems right now. People seem to be noticing my Github and emailing me :|
-
-Also going on a mini game dev and artist side quest for aaaaaaaaaaaaaaaaaahhhhhhhhhhhhh very personal reasons
-
-![Alt Text](giphy.gif)
-
-reddit: Extension-Book-4556
+That's all I gotta say for now. Feel free to email if you gotta talk. Cheers.
 
 </div>
 
