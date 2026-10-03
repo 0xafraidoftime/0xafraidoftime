@@ -6,5 +6,7 @@
 
 Someone wise once told me that life is just a party and parties weren't meant to last.
 
+![hehe](special.png)
+
 </div>
 
